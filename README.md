@@ -2,8 +2,8 @@
 ## Paper: Extracting Attractive App Aspects from App Reviews using Clustering Techniques based on Kano Model
 
 ###### This repository includes the code used for extracting attractive app aspects.
-<ol>
-  <li>Data Collection and Preprocessing<\li>
+
+* Data Collection and Preprocessing
     <ul>
       <li>[1. App_Reviews_Scraper](https://github.com/NadeenAmoudi/extracting-attractive-app-aspects/blob/main/1.%20App_Reviews_Scraper.ipynb).
       <li>[2. Combine_Reviews](https://github.com/NadeenAmoudi/extracting-attractive-app-aspects/blob/main/2.%20Combine_Reviews.ipynb).
