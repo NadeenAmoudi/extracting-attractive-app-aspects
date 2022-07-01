@@ -1,0 +1,34 @@
+aspect,cluster,dissatisfaction,satisfaction,DIFF,,OUR APPROACH,BY SURVEY,AGREEMENT,CHECKING the EXISTANCE for O,MY COMMENT,presence_in_hungerstation,presence_in_jahez,presence_in_shgardi,presence_in_toyou,presence_in_thechefz
+easy use,0,0,0.119477903,0.119477903,>,A,M,,,,1,1,1,1,1
+delivery fee,0,0.081106616,0.173191039,0.092084423,<,O,M,,All,Stay as is,1,1,1,1,1
+affordable price,0,0,0.162787999,0.162787999,>,A,A,1,,,1,1,1,1,1
+tasty food,0,0,0.107193388,0.107193388,<,O --> A,A,1,All,"but s > d, so maybe the s due to the existance of the feature, so will change it to A",1,1,1,1,1
+delivery guy,0,0.069880887,0.110533462,0.040652575,<,O,M,,All,Stay as is,1,1,1,1,1
+free delivery,0,0.0229009,0.163004817,0.140103917,>,A,A,1,,,1,0,1,0,0
+wide variety,0,0,0.141223538,0.141223538,>,A,O,,,,1,1,1,1,1
+restaurant finder,0,0,0.067058108,0.067058108,<,O,M,,All,Stay as is,1,1,1,1,1
+Centroid,,0.02173605,0.130558782,0.108822731,,,,,,,,,,,
+customer service,1,1,1,0,=,O,M,,Most,Stay as is,1,0,1,1,1
+Centroid,,1,1,0,,,,,,,,,,,
+fast delivery,2,0.023935887,0.613338057,0.58940217,<,O --> A,A,1,All,"but s > d, so maybe the s due to the existance of the feature, so will change it to A",1,1,1,1,1
+order food,2,0.054939716,0.742998422,0.688058706,>,A,M,,,,1,1,1,1,1
+restaurant menu,2,0,0.601691131,0.601691131,>,A,M,,,,1,1,1,1,1
+user friendly,2,0,0.521807465,0.521807465,<,O,M,,All,Stay as is,1,1,1,1,1
+Centroid,,0.019718901,0.619958769,0.600239868,,,,,,,,,,,
+apple pay,3,0.049149828,0.021528636,-0.027621192,>,M,M,1,,,1,1,1,1,1
+cancel order,3,0.079883573,0,-0.079883573,<,O -> M,M,1,Only 2 ,"So the dissatisfaction could be due to missed feature, so will change it to M",0,0,0,1,1
+credit card,3,0.047703229,0.020894996,-0.026808233,>,M,M,1,,,1,1,1,1,1
+accept order,3,0.029200277,0,-0.029200277,>,M,M,1,,,1,1,1,1,1
+google map,3,0.013657902,0,-0.013657902,>,M,M,1,,,1,1,1,1,1
+contact customer,3,0.067500284,0,-0.067500284,<,O,M,,All,Stay as is (here I cannot change because dissatisfaction of M related to the missed feature),1,1,1,1,1
+receive order,3,0.097060052,0,-0.097060052,<,O,M,,All,Stay as is (here I cannot change because dissatisfaction of M related to the missed feature),1,1,1,1,1
+open ticket,3,0.052216757,0,-0.052216757,<,O,O,1,,,1,0,1,0,1
+late delivery,3,0.062819391,0.067070703,0.004251312,>,O,O,1,,This is an exceptional case because the values are close,1,1,1,1,1
+Centroid,,0.055465699,0.012166037,-0.043299662,,,,,,,,,,,
+payment method,4,0.051439562,0.423093124,0.371653562,>,A,M,,,,1,1,1,1,1
+quality food,4,0,0.369019359,0.369019359,>,A,M,,,,1,1,1,1,1
+delightful meal,4,0,0.414529334,0.414529334,>,A,A,1,,,1,1,1,1,1
+favorite food,4,0,0.382366643,0.382366643,>,A,A,1,,,0,0,0,1,1
+browse dish,4,0,0.263141599,0.263141599,<,O,M,,All,Stay as is,1,1,1,1,1
+flexible payment,4,0,0.366711146,0.366711146,>,A,M,,,,1,1,1,1,1
+Centroid,,0.00857326,0.369810201,0.361236941,,,,,,,,,,,
