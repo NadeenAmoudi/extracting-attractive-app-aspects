@@ -21,7 +21,7 @@
     - [10. calculate_average_dissatisfaction_satisfaction](https://github.com/NadeenAmoudi/extracting-attractive-app-aspects/blob/main/10.%20calculate_average_dissatisfaction_satisfaction.ipynb)
     
  * Extracting Attractive App Aspects
-    - 11. estimating_optimal_number_of_clusters](https://github.com/NadeenAmoudi/extracting-attractive-app-aspects/blob/main/11.%20estimating_optimal_number_of_clusters.ipynb)
+    - 11. [estimating_optimal_number_of_clusters](https://github.com/NadeenAmoudi/extracting-attractive-app-aspects/blob/main/11.%20estimating_optimal_number_of_clusters.ipynb)
     - [12. K_means_experiment](https://github.com/NadeenAmoudi/extracting-attractive-app-aspects/blob/main/12.%20K_means_experiment.ipynb)
     - [12. AH_clustering_experiment](https://github.com/NadeenAmoudi/extracting-attractive-app-aspects/blob/main/12.%20AH_clustering_experiment.ipynb)
     - [13. rand_index](https://github.com/NadeenAmoudi/extracting-attractive-app-aspects/blob/main/13.%20rand_index.ipynb)
