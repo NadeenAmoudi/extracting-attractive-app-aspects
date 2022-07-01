@@ -4,15 +4,15 @@
 ###### This repository includes the code used for extracting attractive app aspects.
 
 * Data Collection and Preprocessing
-    <ul>
-      <li>[1. App_Reviews_Scraper](https://github.com/NadeenAmoudi/extracting-attractive-app-aspects/blob/main/1.%20App_Reviews_Scraper.ipynb).
-      <li>[2. Combine_Reviews](https://github.com/NadeenAmoudi/extracting-attractive-app-aspects/blob/main/2.%20Combine_Reviews.ipynb).
-      <li>[3. Split_reviews_titles_into_sentences](https://github.com/NadeenAmoudi/extracting-attractive-app-aspects/blob/main/3.%20Split_reviews_titles_into_sentences.ipynb).
-      <li>[4. Preprocessing](https://github.com/NadeenAmoudi/extracting-attractive-app-aspects/blob/main/4.%20Preprocessing.ipynb).
-      <li>[5. Part_of_Speech_Tagging](https://github.com/NadeenAmoudi/extracting-attractive-app-aspects/blob/main/5.%20Part%20of%20Speech%20Tagging.ipynb).
-      <li>[6. Lemmatization](https://github.com/NadeenAmoudi/extracting-attractive-app-aspects/blob/main/6.%20Lemmatization.ipynb).<\li>   
-<\li> 
-    <\ul>
+    
+ - [1. App_Reviews_Scraper](https://github.com/NadeenAmoudi/extracting-attractive-app-aspects/blob/main/1.%20App_Reviews_Scraper.ipynb).
+ - [2. Combine_Reviews](https://github.com/NadeenAmoudi/extracting-attractive-app-aspects/blob/main/2.%20Combine_Reviews.ipynb).
+ - [3. Split_reviews_titles_into_sentences](https://github.com/NadeenAmoudi/extracting-attractive-app-aspects/blob/main/3.%20Split_reviews_titles_into_sentences.ipynb).
+ - [4. Preprocessing](https://github.com/NadeenAmoudi/extracting-attractive-app-aspects/blob/main/4.%20Preprocessing.ipynb).
+ - [5. Part_of_Speech_Tagging](https://github.com/NadeenAmoudi/extracting-attractive-app-aspects/blob/main/5.%20Part%20of%20Speech%20Tagging.ipynb).
+ - [6. Lemmatization](https://github.com/NadeenAmoudi/extracting-attractive-app-aspects/blob/main/6.%20Lemmatization.ipynb) 
+   
+   
   <li>App Aspects Extraction<\li>
    <ul>
       <li>[7. collocations_finding_algorithm](https://github.com/NadeenAmoudi/extracting-attractive-app-aspects/blob/main/7.%20collocations_finding_algorithm.ipynb).<\li>
